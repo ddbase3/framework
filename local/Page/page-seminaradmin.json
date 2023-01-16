@@ -1,0 +1,30 @@
+{
+	"pageheaders": [
+		{
+			"name": "titlepagemodule",
+			"data": {
+				"title": "BASE3 AI - Neural Network Seminar Admin"
+			}
+		}, {
+			"name": "metapagemodule",
+			"data": {
+				"robots": "noindex,nofollow"
+			}
+		}, {
+			"name": "multilangpagemodule"
+		}, {
+			"name": "jquerycookiebarpagemodule"
+		}, {
+			"name": "base3pagemodule"
+		}
+	],
+	"pagecontents": [
+		{
+			"name": "pageheader"
+		}, {
+			"name": "neuralnetworkseminaradminpagemodule"
+		}, {
+			"name": "pagefooter"
+		}
+	]
+}

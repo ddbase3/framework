@@ -1,0 +1,30 @@
+{
+	"pageheaders": [
+		{
+			"name": "titlepagemodule",
+			"data": {
+				"title": "BASE3 AI - Test Handschrifterkennung"
+			}
+		}, {
+			"name": "metapagemodule",
+			"data": {
+				"robots": "noindex,nofollow"
+			}
+		}, {
+			"name": "multilangpagemodule"
+		}, {
+			"name": "jquerycookiebarpagemodule"
+		}, {
+			"name": "base3pagemodule"
+		}
+	],
+	"pagecontents": [
+		{
+			"name": "pageheader"
+		}, {
+			"name": "neuralnetworkseminarsketchpad"
+		}, {
+			"name": "pagefooter"
+		}
+	]
+}

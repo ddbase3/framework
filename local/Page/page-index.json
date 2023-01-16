@@ -1,0 +1,38 @@
+{
+	"pageheaders": [
+		{
+			"name": "titlepagemodule",
+			"data": {
+				"title": "BASE3 AI"
+			}
+		}, {
+			"name": "metapagemodule",
+			"data": {
+				"robots": "noindex,nofollow"
+			}
+		}, {
+			"name": "multilangpagemodule"
+		}, {
+			"name": "jquerycookiebarpagemodule"
+		}, {
+			"name": "base3pagemodule"
+		}
+	],
+	"pagecontents": [
+		{
+			"name": "pageheader"
+		}, {
+			"name": "pagecontent",
+			"data": {
+				"content": "<h1>BASE3 AI</h1>\n<p>Nutzung von neuronalen Netzen zur Unterstützung von Software mit künstlicher Intelligenz.</p>"
+			}
+		}, {
+			"name": "pagecontent",
+			"data": {
+				"content": "<p><a class=\"button button-green\" href=\"singlesignon.php\">Anmelden</a></p>"
+			}
+		}, {
+			"name": "pagefooter"
+		}
+	]
+}
